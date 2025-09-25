@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on data science, artifficial inteligence or cybersecurity projects/works
 
 - ## 🚀 Recent Projects
-- Projects 2 and 3 of the Data Structures class
+- Projects of the Algorithms class
 
 - ## 💼 Skills
 - C/C++
