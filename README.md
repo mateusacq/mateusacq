@@ -9,6 +9,7 @@
 - ## 💼 Skills
 - C/C++
 - Python
+- R
 - Data Structures and Algorithms
 - POO
 - Git and GitHub
