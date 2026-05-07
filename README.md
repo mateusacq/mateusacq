@@ -9,7 +9,7 @@
 
 - ## 💼 Skills
 - C/C++
-- Python
+- Python (including libraries for data science and scripts)
 - R
 - Data Structures and Algorithms
 - POO
